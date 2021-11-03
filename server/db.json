@@ -1,0 +1,39 @@
+{
+  "auth": [
+    {
+      "firstName": "Sana",
+      "email": "test@gmail.com",
+      "password": "testing@123",
+      "lastName": "Ilyas",
+      "id": 1
+    },
+    {
+      "firstName": "test",
+      "lastName": "user",
+      "email": "test@gmail.com",
+      "password": "testing@123",
+      "id": 2
+    },
+    {
+      "firstName": "test",
+      "lastName": "user",
+      "email": "test@gmail.com",
+      "password": "testing@123",
+      "id": 3
+    },
+    {
+      "firstName": "test",
+      "lastName": "user",
+      "email": "test@gmail.com",
+      "password": "testing@123",
+      "id": 4
+    },
+    {
+      "firstName": "test",
+      "lastName": "user",
+      "email": "test@gmail.com",
+      "password": "testing@123",
+      "id": 5
+    }
+  ]
+}
